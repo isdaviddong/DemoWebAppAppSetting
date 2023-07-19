@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DemoWebAppAppSetting/1.0.0": {
+        "runtime": {
+          "DemoWebAppAppSetting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoWebAppAppSetting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
